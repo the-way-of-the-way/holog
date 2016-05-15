@@ -1,0 +1,3 @@
+<technique vs="DividedScreen" ps="DividedScreen">
+    <pass name="base" />
+</technique>
